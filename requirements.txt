@@ -1,0 +1,7 @@
+SimpleITK
+numpy
+scipy
+diskcache
+cassandra-driver
+tensorboard
+-e .
